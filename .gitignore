@@ -1,0 +1,6 @@
+/workbench/raw-php/laravel-doctrine/vendor
+composer.phar
+composer.lock
+.DS_Store
+vendor
+.idea
