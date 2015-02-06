@@ -10,7 +10,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "4.2.*",
-        "atrauzzi/laravel-doctrine": "1.0.*@dev",
+        "atrauzzi/laravel-doctrine": "dev-master",
         "doctrine/orm": "2.4.*@dev",
         "doctrine/dbal": "2.4.*@dev",
         "doctrine/common": "2.4.*@dev",
